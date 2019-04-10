@@ -1,0 +1,41 @@
+/* Sign Up CSS */
+/* test input form by C.Coulson */
+
+/* div wrapper class styling */
+.wrapper {
+    width: 620px;
+    margin: 0 auto;
+    border: 1px ridge lightblue;
+    border-radius: 0.5em;
+}
+label{
+    font-size: 120%;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: 25%;
+    float: left;
+    margin: 0.125em;
+}
+/* input selector styling */
+input {
+    width: 15em;
+    height: 40px;
+    padding: 1px;
+    font-size: 150%;
+    border: 2px ridge lightskyblue;
+    border-radius: .25em;
+    margin: 0.125em;
+}
+#btnsubmit{
+    margin-left: 25.65%;
+    width: 368px;
+}
+.allErrorlabels{
+    font-size: 100%;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    float: none;
+    margin: 0.125em;
+}
