@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Fun Quiz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/sixcoloumnpage.css">
+    
+</head>
+<body>
+    <div id="divMainGrid">
+        <div class="divTitle">
+            <h2>Welcome to a Fun Quiz!</h2>
+        </div>
+        <div class="divPara">
+            <p class="paragraphs">
+                Challenge! if you can answer all the questions you will be awarded a prize!
+            </p>
+        </div>
+        <div class="btnContainer">
+            <button class="btnStartQuiz" type="button">Start Quiz</button>
+        </div>
+        <div class="divQuestionContainer">
+            <label class="lblQuestion"></label>
+        </div>
+        <div class="divCorrectAnsTitle">
+            <label class="lblCorrectAnswer">Correct Scores</label>
+        </div>
+        <div class="divTextArea">
+            <textarea name="thequestion" id="questionid"  rows="8" class="txtArea"></textarea>
+        </div>
+        <div class="divIncorrectAnsTitle">
+            <label class="lblIncorrectAnsTitle">Incorrect Scores</label>
+        </div>
+        <div class="divCorrectScore">
+            <label class="lblCorrectScore">0</label>
+        </div>
+        <div class="divIncorrectScore">
+            <label class="lblIncorrectScore">0</label>
+        </div>
+        <div class="divFooterCorrect">
+            <label class="lblCorrectStatus"></label>
+        </div>
+        <div class="divFooterIncorrect">
+            <label class="lblIncorrectStatus"></label>
+        </div>
+        <div class="divYourAns">
+            <input type="text" class="inpYourAns" 
+            placeholder="type here '0', or '1', or '2'" 
+            value="">
+        </div>
+        <div class="divFooter">
+            <p></p>
+        </div>
+    </div>
+
+    <script src="js/sixcoloumnpage.js"></script>
+</body>
+</html>

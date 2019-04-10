@@ -1,0 +1,169 @@
+/* Css for the sixcoloumnpage */
+/* CSS3 code generation March 20/03/19 - by C.Coulson */
+
+/* Global reset of the page layout */
+/* *{
+    margin: 5px;
+    padding: 0;
+} */
+
+/* Definition of the grid  */
+#divMainGrid{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(7, minmax(20px, auto));
+    grid-gap: 10px;
+    max-width: 800px;
+    border: 3px ridge lightskyblue;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding:5px;
+}
+#divMainGrid div{
+    background: white;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border:1px solid lightgray; */
+}
+
+/* Div and Title styling */
+.divTitle{
+    grid-column: span 7;
+}
+
+/* Div and Paragraph style */
+.divPara{
+    grid-column: span 7;
+}
+.paragraphs{
+    font-size: 18px;
+    background:  linear-gradient(lightsteelblue, lightskyblue, white);
+}
+
+/* Button Styling */
+.btnContainer{
+    grid-column: span 7;
+}
+.btnStartQuiz{
+    height: 50px;
+    width: 150px;
+    border-radius: 8px;
+    background: lightcoral;
+    border-style: ridge;
+    font-size: 20px;
+    font-weight: 200;
+}
+.btnStartQuiz:hover{
+    background: lightblue;
+}
+
+/* Label Styling */
+.divQuestionContainer{
+    grid-column: span 7;
+}
+.lblQuestion{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* Div and Correct Answers box */
+.divCorrectAnsTitle{
+    grid-column: span 2;
+    border: 3px ridge lightblue;
+    border-radius: 8px;
+}
+.lblCorrectAnswer{
+    font-size: 22px;
+    font-weight: bold;
+}
+.divCorrectScore{
+    grid-column: span 2;
+    grid-row: span 3;
+    border: 3px ridge lightblue;
+    border-radius: 8px;
+}
+.lblCorrectScore{
+    font-size: 75px;
+    color: green;
+}
+.divFooterCorrect{
+    grid-column: span 2;
+    grid-row: span 3;
+    border: 3px ridge lightblue;
+    border-radius: 8px;
+}
+.lblCorrectStatus{
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+/* Div and textArea control */
+.divTextArea{
+    grid-column: span 3;
+    grid-row: span 5;
+}
+.txtArea{
+    height: 130px;
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    color: cornsilk;
+    border: 5px ridge cornflowerblue;
+    border-radius: 8px;
+    padding: 5px;
+    margin-top: 20px;
+    background: linear-gradient(steelblue, lightsteelblue,steelblue);
+}
+
+/* Div and incorrect answers styling */
+.divIncorrectAnsTitle{
+    grid-column: span 2;
+    border: 3px ridge lightskyblue;
+    border-radius: 8px;
+}
+.lblIncorrectAnsTitle{
+    font-size: 22px;
+    font-weight: bold;
+}
+.divIncorrectScore{
+    grid-column: span 2;
+    grid-row: span 3;
+    border: 3px ridge lightskyblue;
+    border-radius: 8px;
+}
+.lblIncorrectScore{
+    font-size: 75px;
+    color: red;
+}
+.divFooterIncorrect{
+    grid-column: span 2;
+    grid-row: span 3;
+    border: 3px ridge lightskyblue;
+    border-radius: 8px;
+}
+.lblIncorrectStatus{
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+/* Div the answer box */
+.divYourAns{
+    grid-column: span 7;
+}
+.inpYourAns{
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    border:1px solid brown;
+    border-radius: 8px;
+}
+
+/* Footer Design */
+.divFooter{
+    grid-column: span 7;
+    color: red;
+    font-size: 18px;
+    font-weight: bolder;
+}
