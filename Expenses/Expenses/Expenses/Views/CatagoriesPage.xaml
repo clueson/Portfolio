@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Expenses.ViewModels"
+             x:Class="Expenses.Views.CatagoriesPage">
+    <!-- Resources -->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <vm:CatagoriesVm x:Key="vm"></vm:CatagoriesVm>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <!-- Tool Bar-->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Export" 
+                     Command="{Binding Source={StaticResource vm}, Path=ExportCommand}">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <!-- Content -->
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding Source={StaticResource vm}, Path=CatagoryExpensesCollection}" Margin="5">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="2">
+                            <Label Text="{Binding Catagory}">
+                            </Label>
+                            <ProgressBar Progress="{Binding ExpensesPercentage}">
+                            </ProgressBar>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

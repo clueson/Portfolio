@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Expenses.ViewModels"
+             x:Class="Expenses.Views.ExpenseDetailsPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!-- Defines the viewmodel class to be used-->
+            <vm:ExpenseDetailsVM x:Key="vm"></vm:ExpenseDetailsVM>
+            <!-- Defines the styles-->
+            <Style TargetType="Label" x:Key="nameLabel">
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="FontSize" Value="30"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="amountLabel">
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="FontSize" Value="30"></Setter>
+                <Setter Property="TextColor" Value="#05A8AA"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="dateLabel">
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="catagoryLabel">
+                <Setter Property="TextColor" Value="#05A8AA"></Setter>
+                <Setter Property="FontAttributes" Value="Italic"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+            </Style>
+            <Style TargetType="Frame" x:Key="AllFrames">
+                <Setter Property="BackgroundColor" Value="WhiteSmoke"></Setter>
+                <Setter Property="Opacity" Value="0.65"></Setter>
+                <Setter Property="BorderColor" Value="SteelBlue"></Setter>
+                <Setter Property="CornerRadius" Value="25"></Setter>
+                <Setter Property="Margin" Value="25"></Setter>
+            </Style>
+            <Style TargetType="Frame" x:Key="subFrames" BasedOn="AllFrames">
+                <Setter Property="BackgroundColor" Value="LightSteelBlue"></Setter>
+                <Setter Property="Opacity" Value="0.5"></Setter>
+                <Setter Property="Margin" Value="10"></Setter>
+            </Style>
+            <Style TargetType="Label" x:Key="titleLabel">
+                <Setter Property="HorizontalOptions" Value="Center"></Setter>
+                <Setter Property="TextDecorations" Value="Underline"></Setter>
+                <Setter Property="TextColor" Value="DarkCyan"></Setter>
+                <Setter Property="Text" Value="Expenses Details"></Setter>
+                <Setter Property="FontSize" Value="Large"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Frame Style="{StaticResource AllFrames}" BindingContext="{StaticResource vm}">
+            <StackLayout Margin="2" HorizontalOptions="Center">
+                <Label Style="{StaticResource titleLabel}"></Label>
+                <Frame Style="{StaticResource subFrames}" Margin="10">
+                    <StackLayout HorizontalOptions="CenterAndExpand">
+                        <Label Text="{Binding Expense.Catagory}"
+                               Style="{StaticResource catagoryLabel}">
+                        </Label>
+                        <Label Text="{Binding Expense.Date, StringFormat='\{0:MM/dd/yy}'}"
+                               Style="{StaticResource dateLabel}">
+                        </Label>
+                    </StackLayout>
+                </Frame>
+                <Frame Style="{StaticResource subFrames}" Margin="10">
+                    <StackLayout>
+                        <Label Text="{Binding Expense.Name}"
+                               Style="{StaticResource nameLabel}">
+                        </Label>
+                        <Label Text="{Binding Expense.Amount, StringFormat='\{0:c}'}"
+                               Style="{StaticResource amountLabel}">
+                        </Label>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Frame>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses.UWP\Expenses.UWP.csproj;x86

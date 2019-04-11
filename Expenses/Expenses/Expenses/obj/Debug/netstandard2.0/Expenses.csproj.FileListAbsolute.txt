@@ -1,0 +1,15 @@
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\bin\Debug\netstandard2.0\Expenses.deps.json
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\bin\Debug\netstandard2.0\Expenses.dll
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\bin\Debug\netstandard2.0\Expenses.pdb
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Views\CatagoriesPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Views\ExpenseDetailsPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Views\ExpensesPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Views\NewExpensePage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Expenses.AssemblyInfoInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Expenses.AssemblyInfo.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Expenses.dll
+C:\Users\Colin\Documents\Projects\Xamarin\Expenses\Expenses\Expenses\obj\Debug\netstandard2.0\Expenses.pdb

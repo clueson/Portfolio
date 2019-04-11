@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Expenses.ViewModels"
+             xmlns:behaviours="clr-namespace:Expenses.Behaviours"
+             x:Class="Expenses.Views.ExpensesPage">
+    <!-- Content page resources -->
+    <ContentPage.Resources>
+        <!-- For Xamarin forms viewmodel classes imported require a resource dictionary class in xaml -->
+        <ResourceDictionary>
+            <vm:ExpensesVm x:Key="vm"></vm:ExpensesVm>
+        </ResourceDictionary>
+        
+    </ContentPage.Resources>
+
+    <!-- Content page Toolbar -->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="icadd.png" 
+                     Text="Add Expense"
+                     Command="{Binding Source={StaticResource vm}, Path=AddExpenseCommand}">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <!-- Content -->
+    <ContentPage.Content>
+        <Frame BackgroundColor="White" Opacity=".4" CornerRadius="15" WidthRequest="200" BorderColor="SteelBlue" Margin="10">
+            <ListView ItemsSource="{Binding Source={StaticResource vm}, Path=Expenses}" Margin="5">
+                <!-- Assigning the behaviour defined in the class to the Listview more than one behaviour can be declared-->
+                <ListView.Behaviors>
+                    <behaviours:ListViewBehaviour></behaviours:ListViewBehaviour>
+                </ListView.Behaviors>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" TextColor="ForestGreen"
+                              StyleId="none"
+                              Detail="{Binding Catagory}" DetailColor="DarkBlue">
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+
+    </ContentPage.Content>
+</ContentPage>
