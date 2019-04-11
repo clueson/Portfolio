@@ -1,0 +1,10 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EmployeeServiceHost1.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EmployeeServiceHost1.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EmployeeServiceHost1.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\obj\Debug\EmployeeServiceHost1.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\obj\Debug\EmployeeServiceHost1.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost1\obj\Debug\EmployeeServiceHost1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\bin\Debug\HelloService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloService\obj\Debug\HelloService.pdb

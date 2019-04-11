@@ -1,0 +1,27 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

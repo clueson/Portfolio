@@ -1,0 +1,39 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe.manifest
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.xbap
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\Page1.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp_MarkupCompile.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp_MarkupCompile.lref
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\Page1.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.g.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.Properties.Resources.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.csproj.GenerateResource.Cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.TrustInfo.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.exe.manifest
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.xbap
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\Page1.g.cs
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp_MarkupCompile.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp_MarkupCompile.lref
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\Page1.baml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.g.resources
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.Properties.Resources.resources
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.exe.manifest
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\bin\Debug\EmployeeBrowserApp.xbap
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.TrustInfo.xml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.exe.manifest
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\EmployeeBrowserApp\obj\Debug\EmployeeBrowserApp.xbap

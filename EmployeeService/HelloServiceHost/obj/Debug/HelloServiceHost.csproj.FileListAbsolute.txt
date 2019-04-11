@@ -1,0 +1,19 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\bin\Debug\HelloService.dll.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

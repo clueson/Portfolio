@@ -1,0 +1,29 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\MainWindow.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName_MarkupCompile.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName_MarkupCompile.lref
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\MainWindow.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.g.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.Properties.Resources.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.csproj.GenerateResource.Cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\MainWindow.g.cs
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName_MarkupCompile.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName_MarkupCompile.lref
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\MainWindow.baml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.g.resources
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.Properties.Resources.resources
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.exe
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeBrowserApp\HelloName\obj\Debug\HelloName.csprojAssemblyReference.cache

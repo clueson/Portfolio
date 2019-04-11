@@ -1,0 +1,22 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll.config
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Colin\Documents\Projects\WCF\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

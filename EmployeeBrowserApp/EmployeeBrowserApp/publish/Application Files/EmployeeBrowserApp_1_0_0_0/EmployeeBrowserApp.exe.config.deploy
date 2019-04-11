@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.diagnostics>
+        <sources>
+            <source name="System.ServiceModel.MessageLogging" switchValue="Warning,ActivityTracing">
+                <listeners>
+                    <add type="System.Diagnostics.DefaultTraceListener" name="Default">
+                        <filter type="" />
+                    </add>
+                    <add name="ServiceModelMessageLoggingListener">
+                        <filter type="" />
+                    </add>
+                </listeners>
+            </source>
+            <source propagateActivity="true" name="System.ServiceModel" switchValue="Warning,ActivityTracing">
+                <listeners>
+                    <add type="System.Diagnostics.DefaultTraceListener" name="Default">
+                        <filter type="" />
+                    </add>
+                    <add name="ServiceModelTraceListener">
+                        <filter type="" />
+                    </add>
+                </listeners>
+            </source>
+        </sources>
+        <sharedListeners>
+            <add initializeData="c:\users\colin\documents\visual studio 2015\projects\wcf\employeebrowserapp\employeebrowserapp\app_messages.svclog"
+                type="System.Diagnostics.XmlWriterTraceListener, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                name="ServiceModelMessageLoggingListener" traceOutputOptions="Timestamp">
+                <filter type="" />
+            </add>
+            <add initializeData="c:\users\colin\documents\visual studio 2015\projects\wcf\employeebrowserapp\employeebrowserapp\app_tracelog.svclog"
+                type="System.Diagnostics.XmlWriterTraceListener, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                name="ServiceModelTraceListener" traceOutputOptions="Timestamp">
+                <filter type="" />
+            </add>
+        </sharedListeners>
+        <trace autoflush="true" />
+    </system.diagnostics>
+    <system.serviceModel>
+        <diagnostics>
+            <messageLogging logEntireMessage="true" logMalformedMessages="true"
+                logMessagesAtTransportLevel="true" />
+        </diagnostics>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IHelloService" />
+                <binding name="BasicHttpBinding_IHelloService1" />
+                <binding name="BasicHttpBinding_IEmployeeService" />
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/HelloService/HelloService/HelloService"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IHelloService"
+                contract="ServiceReference.IHelloService" name="BasicHttpBinding_IHelloService" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/HelloService/HelloService/HelloService"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IHelloService1"
+                contract="ServiceReference1.IHelloService" name="BasicHttpBinding_IHelloService1" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/EmployeeService/EmployeeService/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IEmployeeService"
+                contract="ServiceReference2.IEmployeeService" name="BasicHttpBinding_IEmployeeService" />
+        </client>
+    </system.serviceModel>
+</configuration>
