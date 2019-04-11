@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj",
+      "projectUniqueName": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj",
       "projectName": "Expenses",
-      "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj",
+      "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj",
       "packagesPath": "C:\\Users\\Colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\obj\\",
+      "outputPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

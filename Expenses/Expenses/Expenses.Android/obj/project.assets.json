@@ -1368,11 +1368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.Android\\Expenses.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.Android\\Expenses.Android.csproj",
       "projectName": "Expenses.Android",
-      "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.Android\\Expenses.Android.csproj",
+      "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.Android\\Expenses.Android.csproj",
       "packagesPath": "C:\\Users\\Colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.Android\\obj\\",
+      "outputPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1389,8 +1389,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
-              "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
+            "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
+              "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
             }
           }
         }

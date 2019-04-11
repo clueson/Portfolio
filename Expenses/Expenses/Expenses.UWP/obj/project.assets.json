@@ -9523,11 +9523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.UWP\\Expenses.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.UWP\\Expenses.UWP.csproj",
       "projectName": "Expenses.UWP",
-      "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.UWP\\Expenses.UWP.csproj",
+      "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.UWP\\Expenses.UWP.csproj",
       "packagesPath": "C:\\Users\\Colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9547,8 +9547,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
-              "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
+            "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
+              "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
             }
           }
         }

@@ -1373,11 +1373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.iOS\\Expenses.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.iOS\\Expenses.iOS.csproj",
       "projectName": "Expenses.iOS",
-      "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.iOS\\Expenses.iOS.csproj",
+      "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.iOS\\Expenses.iOS.csproj",
       "packagesPath": "C:\\Users\\Colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1394,8 +1394,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
-              "projectPath": "C:\\Users\\Colin\\Documents\\Projects\\Xamarin\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
+            "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj": {
+              "projectPath": "C:\\Users\\Colin\\Documents\\GitHub\\Portfolio\\Expenses\\Expenses\\Expenses\\Expenses.csproj"
             }
           }
         }
