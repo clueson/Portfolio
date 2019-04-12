@@ -6,7 +6,7 @@ a simple javasript ES6, HTML, CSS3, jquery webpage.
 ***** Sign Form ******
 An interactive sing in form, using javascript ES6, HTML5, CSS3, Jquery
 
-****** WPF Desktop app *****
+****** WPF Desktop app ComponentsDatabase *****
 A test application using the MVVM Prism framework, with unity and makes use of boostrap to 
 override app.xaml file, guidance was obtained from the MS practice and patterns team on channel 9.
 And a special mention goes to series of important prism videos published on youtube by Brian Lagunas 
