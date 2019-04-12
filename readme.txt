@@ -36,9 +36,7 @@ improved versions  of IPropertyNotyfyChange interface, Prism' own commanding pat
 A basic expenses application for UWP/IOS/Android, which records any expenses incurred, and places the
 data into a database, then retreives the data and then is displayed in the UI.
 The appllication makes use of the MVVM pattern, SQL Lite, LINQ to SQL, Commanding, 
-IPropertyNotifyChanged, Custom renderers, behaviours, Property binding in XAML, resources, Dependency properties,
-
-there are faults with this application which is an ongoing unfinnished project.
+IPropertyNotifyChanged, Custom renderers, behaviours, Property binding in XAML, resources, Dependency properties, there are faults with this application which is an ongoing unfinnished project.
 UWP has a file save fault which has yet o be resolved, android and IOS part of this function seems to work.
 
 
