@@ -1,0 +1,416 @@
+<Window x:Class="RadwellPartsServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadwellPartsServer"
+        mc:Ignorable="d"
+        Title="Parts Server" Height="600" Width="800" WindowStartupLocation="CenterScreen" 
+        WindowStyle="none" WindowState="Normal" ResizeMode="NoResize" AllowsTransparency="True" 
+        Style="{DynamicResource mnwMainWindow}">
+
+    <!--Main Window Style-->
+    <Window.Resources>
+        <Style x:Key="mnwMainWindow" TargetType="{x:Type Window}">
+            <Setter Property="WindowState" Value="Normal"></Setter>
+            <Setter Property="WindowStyle" Value="None"></Setter>
+            <Setter Property="Background" Value="Transparent"></Setter>
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontSize" Value="10"></Setter>
+            <Setter Property="FontWeight" Value="Light"></Setter>
+            <Setter Property="MaxWidth" Value="800"></Setter>
+            <Setter Property="MaxHeight" Value="600"></Setter>
+            <Setter Property="MinHeight" Value="600"></Setter>
+            <Setter Property="MinWidth" Value="800"></Setter>
+            <Setter Property="WindowStyle" Value="None"></Setter>
+            <Setter Property="WindowState" Value="Normal"></Setter>
+            <Setter Property="ResizeMode" Value="NoResize"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Window}">
+                        <Border BorderBrush="LightBlue"  <------------------------------------ = MainWindowBorderBrush
+                                BorderThickness="5" 
+                                CornerRadius="25" 
+                                Background="White">	<-------------------------------------=MainWindowBorderBackground
+                            <Grid x:Name="GrdPresenter"  Margin="5,5,5,5">
+                                <ContentPresenter></ContentPresenter>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+    <!-- Listview Styling-->
+        <Style x:Key="lvwSearchResults" TargetType="{x:Type ListView}">
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontSize" Value="10"></Setter>
+            <Setter Property="FontWeight" Value="Light"></Setter>
+            <Setter Property="Height" Value="264"></Setter>
+            <Setter Property="Margin" Value="1"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListView">
+                        <Border Background="AliceBlue"	  <---------------------------------------=ListViewBorderBackground
+                                CornerRadius="5"
+                                BorderBrush="LightBlue"	<----------------------------------------=ListViewBorderBrush
+                                BorderThickness="2">
+                            <StackPanel ClipToBounds="True"
+                                        IsItemsHost="True"
+                                        Margin="1">
+                            </StackPanel>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+   <!--Listview container style-->
+        <Style x:Key="lvwContainerstyle" TargetType="ListViewItem">
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="BorderThickness" Value="0.5"></Setter>
+            <Setter Property="Background" Value="White"></Setter>	<------------------------------- = ListViewContainerBackground
+        </Style>
+
+    <!-- Menu Styling Attributes-->
+        <Style x:Key="mnuMainMenu" TargetType="{x:Type Menu}">
+            <Setter Property="Height" Value="40"></Setter>
+            <Setter Property="Width" Value="auto"></Setter>
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontWeight" Value="Light"></Setter>
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="VerticalAlignment" Value="Top"></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Menu">
+                        <Border Background="LightBlue"		<------------------------------------------=MenuBorderBackGround
+                                CornerRadius="10">
+                            <StackPanel ClipToBounds="True"
+                                        IsItemsHost="True"
+                                        Orientation="Horizontal"
+                                        Margin="7">
+                            </StackPanel>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="3" Direction="280" Color="LightGray"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    <!-- Menu Items Styling -->
+        <Style x:Key="mnuItems" TargetType="{x:Type MenuItem}">
+            <Setter Property="FontWeight" Value="Light"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>	<-------------------------=MenuItemsForeground
+            <Setter Property="BorderBrush" Value="Gray"></Setter>	<-------------------------=MenuItemsBorderBrush
+            <Setter Property="BorderThickness" Value="0.125"></Setter>
+        </Style>
+
+    <!-- Menu highlight-->
+        <Style x:Key="mnuWhiteHighlight" TargetType="{x:Type MenuItem}">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Foreground" Value="Blue"></Setter>	<--------------=MenuHighlightForeground
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+    <!-- Textbox styling-->
+        <Style x:Key="tbxSearch" TargetType="{x:Type TextBox}">
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="Height" Value="30"></Setter>
+            <Setter Property="Width" Value="380"></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border BorderBrush="LightBlue"	<------------------------------------=TextBoxBorderBrush
+                                BorderThickness="1"
+                                Background="AliceBlue"		<------------------------------------=TextBoxBorderBackground
+                                CornerRadius="5">
+                            <ScrollViewer x:Name="PART_ContentHost"
+                                          Margin="0"
+                                          VerticalAlignment="Center"
+		          Foreground ="Fucshia">	<-------------------------------------=TextBoxTextForeGround
+                            </ScrollViewer>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    <!-- Round button blue styling -->
+        <Style x:Key="btnBlueRound" TargetType="{x:Type Button}">
+            <Setter Property="Height" Value="55"></Setter>
+            <Setter Property="Width" Value="55"></Setter>
+            <Setter Property="Margin" Value="5.0"></Setter>
+            <Setter Property="Background" Value="Transparent"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse x:Name="blueellipse"
+                                     Stroke="LightBlue"	<----------------------------------=EllipseStroke
+                                     StrokeThickness="2"
+                                     StrokeLineJoin="Round"
+                                     StrokeStartLineCap="Square">
+                                <Ellipse.Fill>
+                                    <LinearGradientBrush EndPoint="-0.155,0.445" StartPoint="1.003,0.438">
+                                        <GradientStop Color="LightBlue"/>	<--------------=EllipseGradientStopColour1
+                                        <GradientStop Color="White" Offset="1"/><--------------=EllipseGradientStopColour2
+                                    </LinearGradientBrush>
+                                </Ellipse.Fill>
+                            </Ellipse>
+                            <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                TextElement.FontFamily="Tahoma"
+                                TextElement.FontSize="12"
+                                TextElement.FontWeight="Light"
+                                SnapsToDevicePixels="True">
+                            </ContentPresenter>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Foreground" Value="Blue"></Setter>	<-------=ButtonMouseOverForeground
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Stroke" Value="LightBlue" TargetName="blueellipse"></Setter>	<----=ButtonIsPressStroke
+                                <Setter Property="StrokeThickness" Value="3" TargetName="blueellipse"></Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    <!-- status bar style-->
+        <Style x:Key="sbarMain" TargetType="{x:Type StatusBar}">
+            <Setter Property="Height" Value="35"></Setter>
+            <Setter Property="Width" Value="auto"></Setter>
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontWeight" Value="UltraLight"></Setter>
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="Background" Value="LightBlue"></Setter>
+            <Setter Property="VerticalAlignment" Value="Bottom"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="FontFamily" Value="Tahoma"></Setter>
+            <Setter Property="FontWeight" Value="UltraLight"></Setter>
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type StatusBar}">
+                        <Border Background="LightBlue"		<---------------------------=StatusBarBorderBackground
+                                CornerRadius="10">
+                            <ItemsPresenter></ItemsPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="3" Direction="270" Color="LightGray"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <!-- Grid Element definitions-->
+    <Grid x:Name="grdMain" Margin="6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.9*"></RowDefinition>
+            <RowDefinition Height="6.5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="0.75*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+    <!-- Main Stack panel-->
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="1" Orientation="Vertical" VerticalAlignment="Top">
+            <!-- Sub Main Stackpanel-->
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="tbxSearch" Style="{StaticResource tbxSearch}" Tag="Text to search for" MouseEnter="tbxSearch_MouseEnter"></TextBox>
+                <Button x:Name="btnSearch" Style="{StaticResource btnBlueRound}" Content="Search" Tag="Executes a search" MouseEnter="btnSearch_MouseEnter"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnFarnell" Style="{StaticResource btnBlueRound}" Content="Farnell" Tag="launches search within Farnells" MouseEnter="btnFarnell_MouseEnter"></Button>
+                <Button x:Name="btnRS" Style="{StaticResource btnBlueRound}" Content="RS" Tag="launches search within RS" MouseEnter="btnRS_MouseEnter"></Button>
+                <Button x:Name="btnDigKey" Style="{StaticResource btnBlueRound}" Content="Digikey" Tag="launches search within Digikey" MouseEnter="btnDigKey_MouseEnter"></Button>
+                <Button x:Name="btnMouser" Style="{StaticResource btnBlueRound}" Content="Mouser" Tag="launches search within Mouser" MouseEnter="btnMouser_MouseEnter"></Button>
+                <Button x:Name="btnMaplin" Style="{StaticResource btnBlueRound}" Content="Maplin" Tag="launches search within Maplin" MouseEnter="btnMaplin_MouseEnter"></Button>
+                <Button x:Name="btnJameco" Style="{StaticResource btnBlueRound}" Content="Jameco" Tag="launches search within Jameco" MouseEnter="btnJameco_MouseEnter"></Button>
+                <Button x:Name="btnAnglia" Style="{StaticResource btnBlueRound}" Content="Anglia" Tag="launches search within Anglia" MouseEnter="btnAnglia_MouseEnter"></Button>
+            </StackPanel>
+            <ListView x:Name="lsvSearchResults" Style="{StaticResource lvwSearchResults}" Tag="Listview results displays links after search" MouseEnter="lsvSearchResults_MouseEnter"></ListView>
+        </StackPanel>
+        
+    <!-- Menu design-->
+        <Menu x:Name="mnuMain" Style="{StaticResource mnuMainMenu}" Grid.ColumnSpan="2">
+            <MenuItem x:Name="mnuFile" Header="_File"  StaysOpenOnClick="True" Style="{StaticResource mnuWhiteHighlight}"  Tag="File Menu" MouseEnter="mnuFile_MouseEnter">
+                <MenuItem Style="{StaticResource mnuItems}" Header="_Open"  Tag="Open a file" MouseEnter="MenuItem_MouseEnter"></MenuItem>
+                <MenuItem Style="{StaticResource mnuItems}" Header="_Save"  Tag="Save a file" MouseEnter="MenuItem_MouseEnter_1"></MenuItem>
+                <MenuItem Header="_Exit" Style="{StaticResource mnuItems}" Click="btnExit_Click"  Tag="Exits the Application" MouseEnter="MenuItem_MouseEnter_2"></MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="mnuEdit" Header="_Edit" StaysOpenOnClick="True" Style="{StaticResource mnuWhiteHighlight}" Tag="Edit Menu" MouseEnter="mnuEdit_MouseEnter">
+                <MenuItem Style="{StaticResource mnuItems}" Header="_Copy" Tag="Copies the selection" MouseEnter="MenuItem_MouseEnter_3"></MenuItem>
+                <MenuItem Style="{StaticResource mnuItems}" Header="_Paste" Tag="Pastes the selection" MouseEnter="MenuItem_MouseEnter_4"></MenuItem>
+                <MenuItem Style="{StaticResource mnuItems}" Header="_Select All" Tag="Select all" MouseEnter="MenuItem_MouseEnter_5"></MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="mnuAbout" Header="About" Style="{StaticResource mnuWhiteHighlight}" Tag="Opens the About box" MouseEnter="mnuAbout_MouseEnter">
+                <MenuItem Style="{StaticResource mnuItems}" Header="_About"  Tag="About box" MouseEnter="MenuItem_MouseEnter_6"></MenuItem>
+            </MenuItem>
+        </Menu>
+        
+    <!-- List view on righthand side-->
+        <ListView x:Name="lsvRight" 
+                  Grid.Column="1" 
+                  Grid.Row="1" 
+                  Height="auto"
+                  Margin="7"
+                  Style="{StaticResource lvwSearchResults}"
+                  Tag="Listview results, tech info on parts" 
+                  MouseEnter="lsvRight_MouseEnter" >
+
+        </ListView>
+        
+    <!-- Utility Buttons-->
+        <StackPanel Grid.Column="0" Grid.Row="2" Orientation="Horizontal" Height="65" VerticalAlignment="Center">
+            <Button x:Name="btnManufacturers" Style="{StaticResource btnBlueRound}" Content="Manuf" Tag="Loads a list of manufacturers in the database" MouseEnter="btnManufacturers_MouseEnter" Click="btnManufacturers_Click"/>
+            <Button x:Name="btnCatagories" Style="{StaticResource btnBlueRound}" Content="Catagory" Tag="Loads List of catagories in database" MouseEnter="btnCatagories_MouseEnter" Click="btnCatagories_Click"/>
+            <Button x:Name="btnCatagoriestype" Style="{StaticResource btnBlueRound}" Content="Types" Tag="Loads a list of catagory types in the database" MouseEnter="btnCatagoriestype_MouseEnter" Click="btnCatagoriestype_Click"></Button>
+           
+        </StackPanel>
+            
+    <!-- status bar design-->
+        <StatusBar x:Name="sbarMain" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" Style="{StaticResource sbarMain}">
+            <TextBlock x:Name="tbxStatus" Width="350" FontSize="14" Margin="10,0,0,0"></TextBlock>
+        </StatusBar>
+    </Grid>
+
+
+</Window>
+
+
+xmlns:local="clr-namespace:ComponentDatabaseTestApp.DataGridStyles"
+
+Code to only load one resource from multiple instances.
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/winfx/2006/xaml/presentation", 
+"WPFTutorial.Utils")]
+ 
+/// <summary>
+/// The shared resource dictionary is a specialized resource dictionary
+/// that loads it content only once. If a second instance with the same source
+/// is created, it only merges the resources from the cache.
+/// </summary>
+public class SharedResourceDictionary : ResourceDictionary
+{
+    /// <summary>
+    /// Internal cache of loaded dictionaries 
+    /// </summary>
+    public static Dictionary<Uri, ResourceDictionary> _sharedDictionaries =
+        new Dictionary<Uri, ResourceDictionary>();
+ 
+    /// <summary>
+    /// Local member of the source uri
+    /// </summary>
+    private Uri _sourceUri;
+ 
+    /// <summary>
+    /// Gets or sets the uniform resource identifier (URI) to load resources from.
+    /// </summary>
+    public new Uri Source
+    {
+        get { return _sourceUri; }
+        set
+        {
+            _sourceUri = value;
+ 
+            if (!_sharedDictionaries.ContainsKey(value))
+            {
+                // If the dictionary is not yet loaded, load it by setting
+                // the source of the base class
+                base.Source = value;
+ 
+                // add it to the cache
+                _sharedDictionaries.Add(value, this);
+            }
+            else
+            {
+                // If the dictionary is already loaded, get it from the cache
+                MergedDictionaries.Add(_sharedDictionaries[value]);
+            }
+        }
+    }
+}
+
+
+
+using MVVMPrismDemo.Views;
+in bootstrapper - public static void RegisterType<T>(this IUnityContainer container, string name)
+        {
+            container.RegisterType(typeof(object), typeof(T), name);
+        }
+
+
+In mainwindow xaml
+ <!-- Use of content controls for configuring and assigning the regions in the window replaces the "<views></views>" xmal attribute-->
+        <ContentControl Grid.Row="0" Grid.ColumnSpan="2" prism:RegionManager.RegionName="MenuBar" ></ContentControl>
+        <ContentControl Grid.Row="1" prism:RegionManager.RegionName="SearchTextBox" ></ContentControl>
+        <ContentControl Grid.Row="2" prism:RegionManager.RegionName="UtilityButtons"></ContentControl>
+        <ContentControl Grid.Row="3" Grid.RowSpan="3" prism:RegionManager.RegionName="ListBoxesLeft"></ContentControl>
+        <ContentControl Grid.Row="1" Grid.Column="1" Grid.RowSpan="5" prism:RegionManager.RegionName="ListBoxesRight"></ContentControl>
+        <ContentControl Grid.Row="6" Grid.ColumnSpan="2" prism:RegionManager.RegionName="ButtonRibbons"></ContentControl>
+        <ContentControl Grid.Row="7" Grid.ColumnSpan="2" prism:RegionManager.RegionName="StatusBar"></ContentControl>
+
+Style="{StaticResource mnwMainWindow}"
+
+---------------------------------------------------------------------------------------------------------------------
+
+        public DelegateCommand MainMenuUpdateCommand { get; set; }
+
+Interation triggers to snse events and then run commands using a delegate
+in the menu item sub file menu items commands menu : 
+Command="{Binding MainMenuUpdateCommand}"  CommandParameter="{Binding ElementName=mnuOpen}"
+
+            <i:Interaction.Triggers>
+        <i:EventTrigger EventName="MouseEnter">
+            <prism:InvokeCommandAction Command="{Binding mousenterCommand}"></prism:InvokeCommandAction>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+------------------------------------------------------------------------------------------------------------------
+exitCommand
+
+
+private void MouseEnterAction(MouseEventArgs obj)
+        {
+           //extracts the Tag property value from the menu items on the main menu
+           //sends the property contents to a method
+            SendTagToViewModel(obj.Source.GetType().GetProperty("Tag").GetValue(obj.Source).ToString());
+        }
+        private void SendTagToViewModel(string thetag)
+        {
+            //Publishes an event aggregator object for recieving into another viewmodel(messaging)
+            _eventaggregator.GetEvent<UpdateTagEvent>().Publish(thetag);
+        }
+
+public DelegateCommand<MouseEventArgs> mousenterCommand { get; set; }
+mousenterCommand = new DelegateCommand<MouseEventArgs>(MouseEnterAction);
+
+
+employees=newlist<employees>()
+{
+	new epmployee{property, property, contacts = new collection<contact>(){new contact{prperty, property}}}
+}

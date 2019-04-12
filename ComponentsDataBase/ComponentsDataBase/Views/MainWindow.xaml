@@ -1,0 +1,38 @@
+﻿<Window x:Class="ComponentsDataBase.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComponentsDataBase.Views"
+        xmlns:views="clr-namespace:ComponentsDataBase.Views"
+        xmlns:prism ="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        mc:Ignorable="d"
+        Title="MainWindow" Style="{DynamicResource mnwMainWindowBlue}" WindowStartupLocation="CenterScreen">
+    <Grid Margin="8">
+        <!--Design by colin coulson in 2012 main page module design using the region manager to inject
+        any content into any region using user controls and the prism engine-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".75*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height=".6*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!-- Use of content controls for configuring and assigning the regions in the window replaces the "<views></views>" xmal attribute-->
+        <ContentControl Grid.Row="0" Grid.ColumnSpan="2" prism:RegionManager.RegionName="MenuBar" ></ContentControl>
+        <ContentControl Grid.Row="1" prism:RegionManager.RegionName="SearchTextBox" ></ContentControl>
+        <ContentControl Grid.Row="2" prism:RegionManager.RegionName="UtilityButtons"></ContentControl>
+        <ContentControl Grid.Row="3" Grid.RowSpan="3" prism:RegionManager.RegionName="ListBoxesLeft"></ContentControl>
+        <ContentControl Grid.Row="1" Grid.Column="1" Grid.RowSpan="5" prism:RegionManager.RegionName="ListBoxesRight"></ContentControl>
+        <ContentControl Grid.Row="6" Grid.ColumnSpan="2" prism:RegionManager.RegionName="ButtonRibbons"></ContentControl>
+        <ContentControl Grid.Row="7" Grid.ColumnSpan="2" prism:RegionManager.RegionName="StatusBar"></ContentControl>
+    </Grid>
+</Window>

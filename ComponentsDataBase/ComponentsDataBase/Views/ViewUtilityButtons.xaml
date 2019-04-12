@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="ComponentsDataBase.Views.ViewUtilityButtons"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:local="clr-namespace:ComponentsDataBase.Views"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d">
+    <!-- Utility Buttons-->
+    <StackPanel Orientation="Horizontal">
+        <Button x:Name="btnManufacturers" Style="{DynamicResource btnRound}" Content="Manuf" Tag="Loads a list of manufacturers in the database">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <prism:InvokeCommandAction Command="{Binding mousenterCommand2}"></prism:InvokeCommandAction>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button x:Name="btnCatagories" Style="{DynamicResource btnRound}" Content="Catagory" Tag="Loads List of catagories in database">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <prism:InvokeCommandAction Command="{Binding mousenterCommand2}"></prism:InvokeCommandAction>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button x:Name="btnCatagoriestype" Style="{DynamicResource btnRound}" Content="Types" Tag="Loads a list of catagory types in the database">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <prism:InvokeCommandAction Command="{Binding mousenterCommand2}"></prism:InvokeCommandAction>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+    </StackPanel>
+</UserControl>

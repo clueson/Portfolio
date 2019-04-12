@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="ComponentsDataBase.Views.ViewTestControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ComponentsDataBase.Views"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d">
+    <Border BorderBrush="blue" BorderThickness="3" CornerRadius="2" Margin="5">
+        <StackPanel Orientation="Vertical" Margin="10">
+            <Menu x:Name="mnuTest" Background="Gray" Height="20" Width="auto" IsMainMenu="True">
+                <MenuItem x:Name="itmFile" Header="_File" Command="ApplicationCommands.Cut" InputGestureText="alt-X">
+                    <MenuItem x:Name="itmSave" Header="_Save" Command="ApplicationCommands.Save"></MenuItem>
+                 </MenuItem>
+                <MenuItem x:Name="itmEdit" Header="_Edit" >
+                    <MenuItem x:Name="itmCopy" Header="_Copy" ></MenuItem>
+                    <MenuItem x:Name="itmPaste" Header="_Paste"></MenuItem>
+                </MenuItem>
+                <MenuItem x:Name="itmHelp" Header="_Help"></MenuItem>
+            </Menu>
+            <TextBox x:Name="tbxName" Text="{Binding Firstname, UpdateSourceTrigger=PropertyChanged}" Width="75" HorizontalAlignment="Center" Margin="5"/>
+            <TextBox x:Name="tbxSurname" Text="{Binding Lastname, UpdateSourceTrigger=PropertyChanged}" Width="75" HorizontalAlignment="Center" Margin="5"/>
+            <Button x:Name="button" Content="Button" Command="{Binding PopulateTextBoxCommand}" Width="75" HorizontalAlignment="Center" Margin="5"/>
+            <RibbonControl Content="RibbonControl"/>
+            <RadioButton x:Name="radioButton" Content="RadioButton" Height="0" Width="4"/>
+        </StackPanel>
+    </Border>
+    
+</UserControl>

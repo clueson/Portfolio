@@ -1,0 +1,217 @@
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe.config
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.xml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.lref
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\ButtonsResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\LeftAndRightListBoxResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\MainWindowResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\StatusBarResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBlockResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBoxResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TopMenuResources.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.baml
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.g.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.Properties.Resources.resources
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.GenerateResource.Cache
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Visual Studio 2015\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe.config
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.xml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.cache
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.lref
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\ButtonsResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\LeftAndRightListBoxResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\MainWindowResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\StatusBarResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBlockResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBoxResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TopMenuResources.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.baml
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.g.resources
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.Properties.Resources.resources
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.CopyComplete
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\VS2015Projects\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Visual Studio 2017\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe.config
+C:\Users\Colin\Documents\Visual Studio 2017\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\Visual Studio 2017\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe.config
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Prism.Wpf.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\ButtonsResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.g.cs
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.cache
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase_MarkupCompile.lref
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\App.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\LeftAndRightListBoxResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\MainWindowResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\StatusBarResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBlockResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TextBoxResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Resources\TopMenuResources.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewButtonsRibbon.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\MainWindow.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewLeftLB.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewMenuBar.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewRightLB.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewSearchTextBox.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewStatusBar.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewTestControl.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\Views\ViewUtilityButtons.baml
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.g.resources
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.Properties.Resources.resources
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.GenerateResource.cache
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csproj.CopyComplete
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.exe
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.pdb
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Colin\Documents\Projects\FullProjects\ComponentsDataBase\ComponentsDataBase\obj\Debug\ComponentsDataBase.csprojAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Round button styling Using a control template to change the look and feel of a button -->
+    <Style x:Key="btnRound" TargetType="{x:Type Button}">
+        <Setter Property="Height" Value="60"></Setter>
+        <Setter Property="Width" Value="60"></Setter>
+        <Setter Property="Margin" Value="2"></Setter>
+        <Setter Property="Background" Value="Transparent"></Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse x:Name="ellipse"
+                                    Stroke="{Binding EllipseStroke}"
+                                    StrokeThickness="1"
+                                    StrokeLineJoin="Round"
+                                    StrokeStartLineCap="Square"
+                                    Fill="{Binding Lineargb}">
+                        </Ellipse>
+                        <ContentPresenter
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                TextElement.FontFamily="Tahoma"
+                                TextElement.FontSize="12"
+                                TextElement.FontWeight="Light"
+                                SnapsToDevicePixels="True">
+                        </ContentPresenter>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="{Binding ButtonMouseOverForeground}"></Setter>
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="true">
+                            <Setter Property="Stroke" Value="{Binding ButtonIsPressStroke}" TargetName="ellipse"></Setter>
+                            <Setter Property="StrokeThickness" Value="3" TargetName="ellipse"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
