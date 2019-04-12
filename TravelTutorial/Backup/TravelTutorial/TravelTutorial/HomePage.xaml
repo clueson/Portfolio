@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TravelTutorial"
+             x:Class="TravelTutorial.HomePage">
+    <!--Tabbed toolbar item-->
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="ToolBarItem_Clicked"></ToolbarItem>
+        <ToolbarItem Text="Close" Clicked="ToolBarClosed_Clicked"></ToolbarItem>
+    </TabbedPage.ToolbarItems>
+
+    <!--Xaml files added to the tabbed page, locale allows access to the project files-->
+    <local:HistoryPage Title="History"></local:HistoryPage>
+    <local:MapPage Title="MapPage"></local:MapPage>
+    <local:ProfilePage Title="ProfilePage"></local:ProfilePage>
+</TabbedPage>

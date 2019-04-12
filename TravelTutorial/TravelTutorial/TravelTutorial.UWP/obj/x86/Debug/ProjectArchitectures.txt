@@ -1,0 +1,1 @@
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial.UWP\TravelTutorial.UWP.csproj;x86

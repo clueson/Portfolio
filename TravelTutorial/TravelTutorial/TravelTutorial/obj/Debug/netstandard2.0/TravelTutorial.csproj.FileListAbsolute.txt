@@ -1,0 +1,16 @@
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\bin\Debug\netstandard2.0\TravelTutorial.deps.json
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\bin\Debug\netstandard2.0\TravelTutorial.dll
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\bin\Debug\netstandard2.0\TravelTutorial.pdb
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\TravelTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\TravelTutorial.AssemblyInfoInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\TravelTutorial.AssemblyInfo.cs
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\TravelTutorial.dll
+C:\Users\Colin\Documents\Projects\Xamarin\TravelTutorial\TravelTutorial\TravelTutorial\obj\Debug\netstandard2.0\TravelTutorial.pdb

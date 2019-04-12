@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TravelTutorial"
+             x:Class="TravelTutorial.MainPage" Title="Travel App Login">
+
+    <StackLayout Style="{DynamicResource stpMainContainer}">
+        <!-- Don't set the image to embedded resource -->
+        <Image x:Name="imgIcon"
+               Aspect="AspectFit"
+               HorizontalOptions="FillAndExpand"
+               Margin="0,0,0,50"
+               HeightRequest="250">
+        </Image>
+
+        <Label x:Name="lblError" Style="{StaticResource lblStyle}">
+        </Label>
+
+        <Entry x:Name="entEmailAddress"
+               Text="Colin"
+               TextColor="{StaticResource Bluecolour}">
+        </Entry>
+        <!-- Placeholder="Your Email Address" -->
+
+        <Entry x:Name="entPassword"
+               Text="cunt"
+               IsPassword="True"
+               TextColor="{StaticResource Bluecolour}">
+        </Entry>
+        <!-- Placeholder="Your Password" -->
+
+        <Button x:Name="btnLogin"
+                Style="{DynamicResource btnstyleLogin}"
+                Clicked="Login_clicked">
+        </Button>
+    </StackLayout>
+
+</ContentPage>

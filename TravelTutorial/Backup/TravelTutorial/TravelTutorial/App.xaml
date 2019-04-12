@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelTutorial.App">
+	<Application.Resources>
+        <!-- Application resource dictionary -->
+        <!-- Colour Property "Dodger Blue"-->
+        <Color x:Key="Bluecolour">#1E90FF</Color>
+        <Color x:Key="LightGrayColour">#D3D3D3</Color>
+        <Color x:Key="LightCyanColour">##00FFFF</Color>
+
+        <!--Main Page Style-->
+        <Style x:Key="MainPageStyle" TargetType ="ContentPage">
+            <Setter Property="BackgroundColor" Value="{StaticResource LightCyanColour}"></Setter>
+        </Style>
+
+        <!-- Login Button Styling -->
+        <Style x:Key="btnstyleLogin" TargetType="Button">
+            <Setter Property="TextColor" Value="White"></Setter>
+            <Setter Property="BorderColor" Value="Coral"></Setter>
+            <Setter Property="BorderRadius" Value="5"></Setter>
+            <Setter Property="BackgroundColor" Value="LightSalmon"></Setter>
+            <Setter Property="Text" Value ="Login"></Setter>
+        </Style>
+
+        <!--Label Styling-->
+        <Style x:Key="lblStyle" TargetType="Label">
+            <Setter Property="BackgroundColor" Value="White"></Setter>
+            <Setter Property="TextColor" Value="{StaticResource Bluecolour}"></Setter>
+            <Setter Property="IsVisible" Value="False"></Setter>
+        </Style>
+
+        <!-- StackPanel Styling-->
+        <Style x:Key="stpMainContainer" TargetType="StackLayout">
+            <Setter Property="BackgroundColor" Value="Gray"></Setter>
+            <Setter Property="Margin" Value="110"></Setter>
+            <Setter Property="Padding" Value="10"></Setter>
+            <Setter Property="Orientation" Value="Vertical"></Setter>
+            <Setter Property="VerticalOptions"  Value="Center"></Setter>
+        </Style>
+
+        <!-- ListView Styling-->
+        <Style x:Key="lvwPostList" TargetType="ListView">
+            <Setter Property="Margin" Value="20"></Setter>
+            <Setter Property="BackgroundColor" Value="Beige"></Setter>
+        </Style>
+
+        <!-- FourSqaure Developers website pwd = Success1234 -->
+
+    </Application.Resources>
+</Application>
