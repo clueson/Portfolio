@@ -22,6 +22,8 @@ improved versions  of IPropertyNotyfyChange interface, Prism' own commanding pat
  ***** WCF application Using SOAP and entity frameworks ******
  A test application created in WPF webforms,  using WCF, c#, and XAML and entity frameworks leveraging
  xaml to creat a webpage that access a sql database file on a host connection (simulated).
+To run create two instances of visual studio and then run "EmployeeService" and the in the other instance of
+visual studio run "EmployeeBrowserApp".
 
  ***** Xamarin Forms Weather Application using Rest Api's ******
  Programmed in Xamarin forms, using Xamarins version of xaml, c#, IOS, Android, UWP,
@@ -37,7 +39,7 @@ A basic expenses application for UWP/IOS/Android, which records any expenses inc
 data into a database, then retreives the data and then is displayed in the UI.
 The appllication makes use of the MVVM pattern, SQL Lite, LINQ to SQL, Commanding, 
 IPropertyNotifyChanged, Custom renderers, behaviours, Property binding in XAML, resources, Dependency properties, there are faults with this application which is an ongoing unfinnished project.
-UWP has a file save fault which has yet o be resolved, android and IOS part of this function seems to work.
+UWP has a file save fault which has yet to be resolved, android and IOS part of this function seems to work.
 
 
  
