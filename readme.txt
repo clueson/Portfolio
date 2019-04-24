@@ -21,7 +21,7 @@ region.Prism framework is loaded in each ViewModel using the prism base classes 
 improved versions of IPropertyNotyfyChange interface, Prism' own commanding pattern and much more!
 
  ***** WCF application Using SOAP and entity frameworks ******
- A test application created in WPF webforms,  using WCF, c#, and XAML and entity frameworks leveraging
+ A test responsive application created in WPF webforms,  using WCF, c#, and XAML and entity frameworks leveraging
  xaml to creat a webpage that access a sql database file on a host connection (simulated) using a soap envelope.
 To run, create two instances of visual studio and then run "EmployeeService" and the in the other instance of
 visual studio run "EmployeeBrowserApp".
