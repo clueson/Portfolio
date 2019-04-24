@@ -42,7 +42,7 @@ The appllication makes use of the MVVM pattern, SQL Lite, LINQ to SQL, Commandin
 IPropertyNotifyChanged, Custom renderers, behaviours, Property binding in XAML, resources, 
 Dependency properties, dependancy injection, and asynchronous programming.
 There are faults within this application which is an ongoing unfinnished project.
-UWP has a file save fault which has yet to be resolved, android and IOS part of this function seems to be functional.
+UWP has a file save fault which has yet to be resolved, android and IOS part of this function seems to be operational.
 
 
  
